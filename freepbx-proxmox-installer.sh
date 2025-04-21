@@ -2,10 +2,10 @@
 
 # --- Config ---
 VMID=111
-VMNAME="FreePBX"
+VMNAME="FreePBX2"
 ISO_URL="https://downloads.freepbxdistro.org/ISO/SNG7-PBX16-64bit-2306-1.iso"
 ISO_NAME="FreePBX-17.0.2.iso"
-STORAGE="home-c1"
+STORAGE="local-zfs"
 BRIDGE="vmbr0"
 CORES=2
 RAM=4096
