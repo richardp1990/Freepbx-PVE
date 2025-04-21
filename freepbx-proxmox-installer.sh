@@ -3,7 +3,7 @@
 # --- Settings ---
 VMID=110
 VMNAME="FreePBX"
-ISO_URL="https://downloads.freepbxdistro.org/ISO/SNG7-PBX16-64bit-2302-1.iso"
+ISO_URL="https://downloads.freepbxdistro.org/ISO/SNG7-PBX16-64bit-2306-1.iso"
 ISO_NAME="FreePBX-16.iso"
 STORAGE="VMLAB-01"  # Change to your preferred storage
 BRIDGE="vmbr0"       # Change to your network bridge
