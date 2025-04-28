@@ -4,12 +4,12 @@
 VMID=111
 VMNAME="FreePBX2"
 ISO_URL="https://downloads.freepbxdistro.org/ISO/SNG7-PBX16-64bit-2306-1.iso"
-ISO_NAME="FreePBX-17.0.2.iso"
-STORAGE="VMLAB-01"
+ISO_NAME="SNG7-PBX16-64bit-2306-1.iso"
+STORAGE="'local-zfs"
 BRIDGE="vmbr0"
 CORES=2
 RAM=4096
-DISK=32
+DISK=80
 
 # --- Kickstart Config ---
 KS_URL="https://raw.githubusercontent.com/richardp1990/Freepbx-PVE/refs/heads/main/ks.cfg"
